@@ -57,5 +57,3 @@ Following is the content of the `default.json` config file:
 |    stunservers     |                   | List of STUN servers that ERS can use    |
 |    turnservers     |                   | List of TURN servers that ERS can use    |
 
-
-
